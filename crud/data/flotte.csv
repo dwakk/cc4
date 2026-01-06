@@ -1,0 +1,4 @@
+"id","type","model","km","critical"
+"1","THERM","CAR","Clio","50000","false"
+"2","THERM","CAR","Peugeot","150000","false"
+"3","ELEC","CAR","Zoé","80000","false"
